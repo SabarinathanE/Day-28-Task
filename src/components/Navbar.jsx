@@ -5,7 +5,7 @@ export default function Navbar() {
       <div className="container-fluid">
         <div className="row" style={{ width: "100%" }}>
           <div className="col-6">  
-            <h3 style={{color:"white"}}>Fashion Store</h3>
+            <h3 style={{color:"white"}}>mobile Store</h3>
           </div>
         </div>
       </div>
